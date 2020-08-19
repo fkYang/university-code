@@ -36,5 +36,26 @@
     <file url="file://$PROJECT_DIR$/src/main/java/interview/examOnline/tencent/Main5.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/interview/examOnline/tencent/MyQueue.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/interview/examOnline/tencent/Test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/study/io/bio/BIOClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/study/io/bio/BIOServerNoBlocking.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/study/io/bio/BioServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/study/io/nio/BlockingIODemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/study/io/nio/BlockingIODemoback.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/study/io/nio/CharsetDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/study/io/nio/GatheringAndScattering.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/study/io/nio/NIODemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/study/io/nio/TestBuffer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/study/io/nio/TestChannel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/study/io/nio/tempServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/io/nio/1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/io/nio/1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/io/nio/2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/io/nio/2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/io/nio/3.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/io/nio/3.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/io/nio/server.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/io/nio/server.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/io/nio/serverback.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/io/nio/serverback.txt" charset="GBK" />
   </component>
 </project>
